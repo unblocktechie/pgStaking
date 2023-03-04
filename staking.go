@@ -1,4 +1,4 @@
-package staking
+package github.com/unblocktechie/staking
 
 import (
 	"fmt"
