@@ -1,3 +1,3 @@
-module "github.com/unblocktechie/staking"
+module staking
 
 go 1.19
